@@ -5,4 +5,3 @@ try{
     console.log("something went wrong",error.message);
 }
 
-// t
