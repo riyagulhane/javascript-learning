@@ -57,9 +57,6 @@ console.log(car2.model);
 console.log(car2);
 
 
-
-
-
 const product= {
     id:101,
     name:"Laptop",
